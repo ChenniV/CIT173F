@@ -18,7 +18,6 @@ $arrlength = count($city);
 echo "<br>";
 for($x = 0; $x < $arrlength; $x++) {
   echo $city[$x] . " , ";
-  echo "<br>";
 }
 
 ?>
