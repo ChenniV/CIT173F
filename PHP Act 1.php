@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 <?php
 
 
 echo "Twinkle, Twinkle little star.";
-echo "<br>";
 $Twinkle = "Shine";
 $Star = "Bright";
 
 
 echo $Twinkle . " , " . $Star;
 ?>
-
-
-</body>
-</html>
